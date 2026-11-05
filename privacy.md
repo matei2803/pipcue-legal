@@ -219,7 +219,7 @@ If applicable law gives you privacy rights, you may have rights such as:
 
 Most PipCue conversation information is stored only on your device and is not accessible to us. These rights therefore generally apply to information that we actually hold, such as information you send to us in a support request.
 
-You may contact us at **[EMAIL]** regarding privacy requests.
+You may contact us at **mateisof2000@gmail.com** regarding privacy requests.
 
 If you are located in the European Economic Area, you may also lodge a complaint with your local supervisory authority.
 
@@ -244,6 +244,6 @@ Material changes may also be communicated through the application or Google Play
 For privacy questions or requests:
 
 **PipCue**  
-**Developer / Trader:** [LEGAL NAME]  
-**Email:** [EMAIL]  
-**Postal address:** [POSTAL ADDRESS]
+**Developer / Trader:** Matei Sofronie
+**Email:** mateisof2000@gmail.com  
+**Postal address:** Str Sold Ene Modoran 3, Bucharest
